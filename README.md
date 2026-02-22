@@ -1,6 +1,6 @@
 # Latihan Soal Pemrograman Python
 
-Repository ini berisi solusi dari 5 soal latihan pemrograman Python. Setiap soal diimplementasikan dalam file terpisah.
+Repository ini berisi solusi dari 5 soal latihan pemrograman Python + 1 penjelasan tentang sebuah code. Setiap soal diimplementasikan dalam file terpisah.
 
 ## Daftar Soal
 1. **Deduplikasi** (`deduplikasi.py`)  
