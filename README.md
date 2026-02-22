@@ -15,4 +15,4 @@ Repository ini berisi solusi dari 5 soal latihan pemrograman Python. Setiap soal
    Program interaktif untuk mengelola kontak.
 6. **Penjelasan Code**
 (`25091397067_WahyuAdiPratama_StrukturData`)
-   Menjelaskan code yang diberikan oleh dosen.
+     Menjelaskan code yang diberikan oleh dosen.
