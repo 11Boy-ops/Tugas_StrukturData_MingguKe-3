@@ -13,6 +13,6 @@ Repository ini berisi solusi dari 5 soal latihan pemrograman Python. Setiap soal
    Menemukan karakter pertama yang berulang dalam string.
 5. **Simulasi Buku Telepon** (`buku_telepon.py`)  
    Program interaktif untuk mengelola kontak.
-
-## Cara Menjalankan
-Pastikan Python 3 terinstal. Jalankan setiap file dengan perintah:
+6. **Penjelasan Code**
+(`25091397067_WahyuAdiPratama_StrukturData`)
+   Menjelaskan code yang diberikan oleh dosen.
